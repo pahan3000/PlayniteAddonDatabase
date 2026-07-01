@@ -1,0 +1,11 @@
+AddonId: 'FPSLimiter_cd5ffd73-3b1a-45d7-86b4-9183f1d858f5'
+Type: GenericPlugin
+InstallerManifestUrl: https://raw.githubusercontent.com/pahan3000/playnite-fps-limiter/main/manifest/FPSLimiter.yaml
+IconUrl: https://raw.githubusercontent.com/pahan3000/playnite-fps-limiter/main/FPSLimiter/icon.png
+ShortDescription: 'Sets per-game FPS caps via RTSS when launching games from Playnite, with fractional caps, separate Desktop/Fullscreen profiles, sync mode control, a global fallback cap, hotkeys, and optional VRR/refresh-rate switching.'
+Name: 'FPS Limiter'
+Author: 'pahan3000'
+Tags: ['fps', 'rtss', 'framerate', 'vrr', 'performance']
+SourceUrl: https://github.com/pahan3000/playnite-fps-limiter
+Links:
+  Website: https://github.com/pahan3000/playnite-fps-limiter
